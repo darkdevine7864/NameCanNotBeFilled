@@ -3,7 +3,7 @@ import React from 'react';
 const PopularGames = () => {
   const games = [
     { title: 'Fortnite', cat: 'Sandbox', rate: '4.8', down: '2.3M', img: 'https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/store/software/switch/70010000010192/64d82c7cac63a15080ce482f140aa664dbda03fbf7dc20f42b71bad743ee9745' },
-    { title: 'PubG', cat: 'Battle S', rate: '4.8', down: '2.3M', img: 'https://static0.xdaimages.com/wordpress/wp-content/uploads/2018/06/pubg.jpg?q=50&fit=crop&w=1200&h=675&dpr=1.5' },
+    { title: 'Pubg', cat: 'Battle S', rate: '4.8', down: '2.3M', img: 'https://static0.xdaimages.com/wordpress/wp-content/uploads/2018/06/pubg.jpg?q=50&fit=crop&w=1200&h=675&dpr=1.5' },
     { title: 'Dota2', cat: 'Steam-X', rate: '4.8', down: '2.3M', img: 'https://i.pcmag.com/imagery/reviews/00xeme7ybg1aolezzfqxhjv-3-hero-image-gallery.fit_scale.size_1028x578.v1569475078.jpg' },
     { title: 'CS-GO', cat: 'Legendary', rate: '4.8', down: '2.3M', img: 'https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/counter-strike-global-offensive-file-48958450.jpeg.webp' }
   ];
