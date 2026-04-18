@@ -2,7 +2,7 @@ import React from 'react';
 
 const GamingLibrary = () => {
   const items = [
-    { title: 'Dota 2', cat: 'Sandbox', date: '24/08/2026', hours: '634 H 22 Mins', status: 'Downloaded', img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi8ufcU3M2xk12y8fARhhUKagtj5GtYWOUcpQ6iZHc-eMhrxnE' },
+    { title: 'Dota 2', cat: 'Sandbox', date: '24/08/2026', hours: '634 H 22 Mins', status: 'Download', img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi8ufcU3M2xk12y8fARhhUKagtj5GtYWOUcpQ6iZHc-eMhrxnE' },
     { title: 'Fortnite', cat: 'Sandbox', date: '22/06/2026', hours: '740 H 52 Mins', status: 'Download', img: 'https://img.etimg.com/thumb/msid-105661248,width-300,height-225,imgsize-24608,resizemode-75/peter-griffin-is-coming-to-fortnite-in-chapter-5-season-1.jpg' }
   ];
 
