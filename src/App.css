@@ -1,0 +1,49 @@
+:root {
+  --dark-bg: #1f2122;
+  --inner-bg: #27292a;
+  --pink: #e75e8d;
+  --text-gray: #666;
+}
+
+body {
+  background-color: #191919;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  margin: 0;
+}
+
+.page-wrapper {
+  padding: 20px 0;
+}
+
+.main-container {
+  background-color: var(--dark-bg);
+  border-radius: 25px;
+  min-height: 100vh;
+}
+
+.pink-text {
+  color: var(--pink);
+}
+
+.btn-pink {
+  background-color: var(--pink);
+  color: white;
+  border-radius: 25px;
+  padding: 10px 30px;
+  border: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.btn-pink:hover {
+  background-color: white;
+  color: var(--pink);
+}
+
+.section-bg {
+  background-color: var(--inner-bg);
+  border-radius: 20px;
+  padding: 30px;
+  margin-bottom: 40px;
+}
