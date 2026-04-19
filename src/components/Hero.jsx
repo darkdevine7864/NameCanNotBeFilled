@@ -3,7 +3,7 @@ import React from 'react';
 const Hero = () => {
   return (
     <div className="hero-section mb-5 p-5 text-white" style={{
-      background: "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200')",
+      background: "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.wallpapersden.com/image/download/assassins-s-creed-shadows-4k-gaming_bmdtZWmUmZqaraWkpJRobWllrWdmbm4.jpg')",
       backgroundSize: 'cover',
       borderRadius: '25px',
       minHeight: '350px',
